@@ -1,0 +1,22 @@
+30. Algorithm to Count Consonants
+
+Algorithm:
+
+1. Start.
+2. Read the given sentence.
+3. Set count = 0.
+4. Read each character of the sentence one by one.
+5. Check whether the character is an alphabet.
+6. If the character is an alphabet and it is not a vowel
+   (a, e, i, o, u, A, E, I, O, U), increment count.
+7. Continue until the end of the sentence.
+8. Display the value of count.
+9. Stop.
+
+Example:
+
+Input:
+Hello World
+
+Output:
+Number of consonants = 7
